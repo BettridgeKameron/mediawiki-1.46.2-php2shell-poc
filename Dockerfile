@@ -1,0 +1,2 @@
+# @lcfr_hax is the goat
+FROM mediawiki@sha256:17d7c4fa00f2073c18800a08885020ec36c4fb1bab04f9195d9253c285d2b387
